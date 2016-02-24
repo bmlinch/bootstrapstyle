@@ -1,0 +1,15 @@
+.gradient{
+    background: linear-gradient(to right, rgba(255,0,0,0), cornflowerblue); /*Standard*/
+}
+#backg a{
+    
+    color: black;
+}
+.carousel-inner{
+    height: 230px;
+}
+.mrgn{
+    margin-top: 5px;
+}
+
+
