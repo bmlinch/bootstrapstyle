@@ -3,7 +3,7 @@ body{
 }
 
 .gradient{
-    background: linear-gradient(to right, rgba(255,0,0,0), cornflowerblue); /*Standard*/
+    background: linear-gradient(to top, rgba(255,0,0,0), teal); /*Standard*/
 }
 #backg a{
     
