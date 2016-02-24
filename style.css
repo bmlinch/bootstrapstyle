@@ -1,3 +1,7 @@
+body{
+    font-size: 2em;
+}
+
 .gradient{
     background: linear-gradient(to right, rgba(255,0,0,0), cornflowerblue); /*Standard*/
 }
@@ -6,10 +10,11 @@
     color: black;
 }
 .carousel-inner{
-    height: 230px;
+    height: 370px;
 }
 .mrgn{
     margin-top: 5px;
 }
+
 
 
