@@ -15,6 +15,17 @@ body{
 .mrgn{
     margin-top: 5px;
 }
+.align{
+    text-align: center;
+}
+.nav > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+}
+.nav-pills{
+    text-align: center;
+}
+
 
 
 
